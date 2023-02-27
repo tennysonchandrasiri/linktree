@@ -20,7 +20,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Code available in{' '}
+            Coded by Pruthivi Thejan{' '}
             <Image
               src="/github.svg"
               alt="Github Logo"
